@@ -6,7 +6,7 @@ date = "2017-01-21"
 title = "Denoising CNN for Realtime Path Tracing"
 
 # Project summary to display on homepage.
-summary = "A convolutional neural network for denoising incomplete path tracing renders using Feature Pyrimad Networks."
+summary = "A convolutional neural network for denoising incomplete path tracing renders using Feature Pyramid Networks."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "noisy_trace.png"

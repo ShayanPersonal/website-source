@@ -26,7 +26,11 @@ weight = 5
   course = "BS in Computer Science"
   institution = "University of California, Santa Barbara"
   year = 2017
- 
+
+[[education.course]]
+  course = "BS in Computer Science"
+  institution = "University of California, Santa Barbara"
+  year = 2017
 +++
 
 # Biography

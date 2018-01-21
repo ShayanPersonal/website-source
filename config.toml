@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-112756250-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -233,6 +233,16 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/ShayanPersonal"
+
+  [[params.social]]
+    icon = "file-pdf-o"
+    icon_pack = "fa"
+    link = "pdf/ShayanSadighResume.pdf"
+
+  [[params.social]]
+    icon = "file-text"
+    icon_pack = "fa"
+    link = "img/ShayanSadighTranscript2Years.png"
 
 
 # Navigation Links

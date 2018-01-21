@@ -11,30 +11,26 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Neural Network Architectures",
+    "Natural Language Processing",
+    "Computer Vision",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS in Computer Science"
+  institution = "University of California, Santa Barbara"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Computer Science"
+  institution = "University of California, Santa Barbara"
+  year = 2017
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a computer science student at University of California, Santa Barbara currently participating in a 5-year accelerated BS/MS program. My interests lie around recent work in artificial intelligence. In particular I am interested in the design of neural networks for vision and natural language processing tasks. I find inspiration in dynamical neuroscience and evolutionary algorithms.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently looking to participate in a research internship or residency in AI. Feel free to contact me.

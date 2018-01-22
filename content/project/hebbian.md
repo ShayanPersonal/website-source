@@ -6,7 +6,7 @@ date = "2017-01-21"
 title = "Hebbian Pruning"
 
 # Project summary to display on homepage.
-summary = "A experiment with combining hebbian learning and deep learning."
+summary = "An experiment with combining hebbian learning and deep learning."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "hebb.gif"

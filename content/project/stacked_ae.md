@@ -6,7 +6,7 @@ date = "2017-01-02"
 title = "Stacked Autoencoder in Pytorch"
 
 # Project summary to display on homepage.
-summary = "A implementation of a stacked, denoising, convolutional autoencoder in Pytorch trained greedily layer-by-layer."
+summary = "An implementation of a stacked, denoising, convolutional autoencoder in Pytorch trained greedily layer-by-layer."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "stacked_ae.png"

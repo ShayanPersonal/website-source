@@ -22,7 +22,7 @@ projects = []
 url_pdf = ""
 url_slides = "https://docs.google.com/presentation/d/1TeUD7tV-E87hngcgv7rmmHRDJN8M3HCIwlIw_beWsis/edit?usp=sharing"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/ShayanPersonal/Kaggle-Passenger-Screening-Challenge-Solution"
 
 # Does the content use math formatting?
 math = true

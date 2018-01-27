@@ -22,7 +22,7 @@ projects = []
 url_pdf = ""
 url_slides = "https://docs.google.com/presentation/d/1gEffIC8d3C3NBEV6e53BZyZZzvWtsDUQfcOJUEX3pnQ/edit#slide=id.p"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/ShayanPersonal/seq2seq-reddit"
 
 # Does the content use math formatting?
 math = true

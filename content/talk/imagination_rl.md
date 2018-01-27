@@ -20,7 +20,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/1mx46E4KND8Z3xrlqbGfa5iDvtWjQnL-IM1SEQ_taB9c/edit?usp=sharing"
 url_video = ""
 url_code = ""
 

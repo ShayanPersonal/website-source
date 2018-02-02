@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:ssadigh@umail.ucsb.edu"
+    link = "mailto:ssadigh@ucsb.edu"
 
   #[[params.social]]
   #  icon = "twitter"
@@ -282,6 +282,11 @@ defaultContentLanguageInSubdir = false
 #  name = "Teaching"
 #  url = "#teaching"
 #  weight = 6
+
+[[menu.main]]
+  name = "Other"
+  url = "#other"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"

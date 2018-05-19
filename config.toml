@@ -258,10 +258,15 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
+[[menu.main]]
+  name = "News"
+  url = "#news"
+  weight = 2
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
 
 #[[menu.main]]
 #  name = "Posts"
@@ -283,15 +288,15 @@ defaultContentLanguageInSubdir = false
 #  url = "#teaching"
 #  weight = 6
 
-[[menu.main]]
-  name = "Other"
-  url = "#other"
-  weight = 6
+#[[menu.main]]
+#  name = "Other"
+#  url = "#other"
+#  weight = 6
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 7
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 7
 
 # Taxonomies.
 [taxonomies]

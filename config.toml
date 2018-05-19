@@ -239,10 +239,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "pdf/ShayanSadighResume.pdf"
 
-  [[params.social]]
-    icon = "file-text"
-    icon_pack = "fa"
-    link = "img/ShayanSadighTranscript2Years.png"
+#  [[params.social]]
+#    icon = "file-text"
+#    icon_pack = "fa"
+#    link = "img/ShayanSadighTranscript2Years.png"
 
 
 # Navigation Links

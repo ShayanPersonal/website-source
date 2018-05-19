@@ -12,7 +12,6 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Neural Network Architectures",
-    "Natural Language Processing",
     "Computer Vision",
   ]
 
@@ -26,15 +25,8 @@ weight = 5
   course = "BS in Computer Science"
   institution = "University of California, Santa Barbara"
   year = 2017
-
-[[education.course]]
-  course = "BS in Computer Science"
-  institution = "University of California, Santa Barbara"
-  year = 2017
 +++
 
 # Biography
 
-I am a computer science student at University of California, Santa Barbara currently participating in a 5-year accelerated BS/MS program. My interests lie around recent work in artificial intelligence. In particular I am interested in the design of neural networks for vision and natural language processing tasks. I find inspiration in dynamical neuroscience and evolutionary algorithms.
-
-I am currently looking to participate in a research internship or residency in AI. Feel free to contact me.
+I am student at University of California, Santa Barbara graduating in June with my M.S in computer science. I am mostly interested in recent work in artificial intelligence. In particular, I am interested in the design of neural networks for vision and natural language processing. In my spare time I look for inspiration in dynamical neuroscience and evolutionary algorithms, as I am interested in creating biologically plausible models. I want to make robots.

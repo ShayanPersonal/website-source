@@ -29,4 +29,4 @@ weight = 5
 
 # Biography
 
-I am student at University of California, Santa Barbara graduating in June with my M.S in computer science. I am mostly interested in recent work in artificial intelligence. In particular, I am interested in the design of neural networks for vision and natural language processing. In my spare time I look for inspiration in dynamical neuroscience and evolutionary algorithms, as I am interested in creating biologically plausible models. I want to make robots.
+I'm a student at UCSB graduating in June with my M.S in computer science. I'm interested in all things AI. I like to think about neural networks, how to design them, how to train them, and what's wrong with them. In my spare time I follow neuroscience and genetics as I suspect natural phenomena holds the key to building our robot overlords.

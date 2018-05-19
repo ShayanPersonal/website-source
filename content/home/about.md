@@ -29,4 +29,4 @@ weight = 5
 
 # Biography
 
-I'm a student at UCSB graduating in June with my M.S in computer science. I'm interested in all things AI. I like to think about neural networks, how to design them, how to train them, and what's wrong with them. I follow neuroscience and genetics as I suspect natural things holds the key to building our robot overlords.
+I'm a student at UCSB graduating in June with my M.S in computer science. I'm interested in all things AI. I like to think about neural networks, how to design them, how to train them, and what's wrong with them. I follow neuroscience and genetics as I suspect natural things hold the key to building our robot overlords.

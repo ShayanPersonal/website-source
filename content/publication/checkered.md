@@ -42,12 +42,12 @@ projects = ["checkered"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
+url_pdf = "https://arxiv.org/pdf/1805.10766.pdf"
+url_preprint = "https://arxiv.org/abs/1805.10766"
+url_code = "https://github.com/ShayanPersonal/checkered-cnn"
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/1LU467UZQmdr9Vzfv39myZ7Ys4JVjIYiGiReDoTGdDPQ/edit?usp=sharing"
 url_video = ""
 url_poster = ""
 url_source = ""

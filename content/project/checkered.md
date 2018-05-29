@@ -8,13 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Improving the capacity of feature maps with checkered CNNs (Coming soon)"
+summary = "Improving the capacity of feature maps with checkered CNNs"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/ShayanPersonal/checkered-cnn"
 
 # Does the project detail page use math formatting?
 math = false
